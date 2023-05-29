@@ -1,1 +1,1 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kfoohusahll7btwobdhzilb4o4&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kfoohusahll7btwobdhzilb4o4&redirect=true)
+![music i liek](music.png)
